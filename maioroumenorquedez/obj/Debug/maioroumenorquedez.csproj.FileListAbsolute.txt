@@ -1,0 +1,10 @@
+C:\Users\leonardo.goliveira15\source\programadordesistemas\maioroumenorquedez\bin\Debug\maioroumenorquedez.exe.config
+C:\Users\leonardo.goliveira15\source\programadordesistemas\maioroumenorquedez\bin\Debug\maioroumenorquedez.exe
+C:\Users\leonardo.goliveira15\source\programadordesistemas\maioroumenorquedez\bin\Debug\maioroumenorquedez.pdb
+C:\Users\leonardo.goliveira15\source\programadordesistemas\maioroumenorquedez\obj\Debug\maioroumenorquedez.csproj.AssemblyReference.cache
+C:\Users\leonardo.goliveira15\source\programadordesistemas\maioroumenorquedez\obj\Debug\maioroumenorquedez.Form1.resources
+C:\Users\leonardo.goliveira15\source\programadordesistemas\maioroumenorquedez\obj\Debug\maioroumenorquedez.Properties.Resources.resources
+C:\Users\leonardo.goliveira15\source\programadordesistemas\maioroumenorquedez\obj\Debug\maioroumenorquedez.csproj.GenerateResource.cache
+C:\Users\leonardo.goliveira15\source\programadordesistemas\maioroumenorquedez\obj\Debug\maioroumenorquedez.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.goliveira15\source\programadordesistemas\maioroumenorquedez\obj\Debug\maioroumenorquedez.exe
+C:\Users\leonardo.goliveira15\source\programadordesistemas\maioroumenorquedez\obj\Debug\maioroumenorquedez.pdb
