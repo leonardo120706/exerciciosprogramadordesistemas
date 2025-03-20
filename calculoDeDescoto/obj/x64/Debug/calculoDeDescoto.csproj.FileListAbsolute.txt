@@ -1,0 +1,10 @@
+C:\Users\leonardo.goliveira15\source\repos\calculoDeDescoto\bin\x64\Debug\calculoDeDescoto.exe.config
+C:\Users\leonardo.goliveira15\source\repos\calculoDeDescoto\bin\x64\Debug\calculoDeDescoto.exe
+C:\Users\leonardo.goliveira15\source\repos\calculoDeDescoto\bin\x64\Debug\calculoDeDescoto.pdb
+C:\Users\leonardo.goliveira15\source\repos\calculoDeDescoto\obj\x64\Debug\calculoDeDescoto.csproj.AssemblyReference.cache
+C:\Users\leonardo.goliveira15\source\repos\calculoDeDescoto\obj\x64\Debug\calculoDeDescoto.frmcalculodesconto.resources
+C:\Users\leonardo.goliveira15\source\repos\calculoDeDescoto\obj\x64\Debug\calculoDeDescoto.Properties.Resources.resources
+C:\Users\leonardo.goliveira15\source\repos\calculoDeDescoto\obj\x64\Debug\calculoDeDescoto.csproj.GenerateResource.cache
+C:\Users\leonardo.goliveira15\source\repos\calculoDeDescoto\obj\x64\Debug\calculoDeDescoto.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.goliveira15\source\repos\calculoDeDescoto\obj\x64\Debug\calculoDeDescoto.exe
+C:\Users\leonardo.goliveira15\source\repos\calculoDeDescoto\obj\x64\Debug\calculoDeDescoto.pdb
