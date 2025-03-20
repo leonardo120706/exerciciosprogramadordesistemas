@@ -1,0 +1,10 @@
+C:\Users\leonardo.goliveira15\source\programadordesistemas\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\leonardo.goliveira15\source\programadordesistemas\calculadora\bin\Debug\calculadora.exe
+C:\Users\leonardo.goliveira15\source\programadordesistemas\calculadora\bin\Debug\calculadora.pdb
+C:\Users\leonardo.goliveira15\source\programadordesistemas\calculadora\obj\Debug\calculadora.csproj.AssemblyReference.cache
+C:\Users\leonardo.goliveira15\source\programadordesistemas\calculadora\obj\Debug\calculadora.frmcalculadora.resources
+C:\Users\leonardo.goliveira15\source\programadordesistemas\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\leonardo.goliveira15\source\programadordesistemas\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\leonardo.goliveira15\source\programadordesistemas\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.goliveira15\source\programadordesistemas\calculadora\obj\Debug\calculadora.exe
+C:\Users\leonardo.goliveira15\source\programadordesistemas\calculadora\obj\Debug\calculadora.pdb
