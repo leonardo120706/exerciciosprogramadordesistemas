@@ -1,0 +1,10 @@
+C:\Users\leonardo.goliveira15\source\programadordesistemas\menudesistema\bin\x64\Debug\menudesistema.exe.config
+C:\Users\leonardo.goliveira15\source\programadordesistemas\menudesistema\bin\x64\Debug\menudesistema.exe
+C:\Users\leonardo.goliveira15\source\programadordesistemas\menudesistema\bin\x64\Debug\menudesistema.pdb
+C:\Users\leonardo.goliveira15\source\programadordesistemas\menudesistema\obj\x64\Debug\menudesistema.csproj.AssemblyReference.cache
+C:\Users\leonardo.goliveira15\source\programadordesistemas\menudesistema\obj\x64\Debug\menudesistema.frmMenuDeSistema.resources
+C:\Users\leonardo.goliveira15\source\programadordesistemas\menudesistema\obj\x64\Debug\menudesistema.Properties.Resources.resources
+C:\Users\leonardo.goliveira15\source\programadordesistemas\menudesistema\obj\x64\Debug\menudesistema.csproj.GenerateResource.cache
+C:\Users\leonardo.goliveira15\source\programadordesistemas\menudesistema\obj\x64\Debug\menudesistema.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.goliveira15\source\programadordesistemas\menudesistema\obj\x64\Debug\menudesistema.exe
+C:\Users\leonardo.goliveira15\source\programadordesistemas\menudesistema\obj\x64\Debug\menudesistema.pdb
